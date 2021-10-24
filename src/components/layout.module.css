@@ -1,0 +1,15 @@
+.container {
+  margin: auto;
+  max-width: 600px;
+  font-family: Arial, sans-serif;
+}
+
+.navBar {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.navItem {
+  margin-right: 30px;
+}
